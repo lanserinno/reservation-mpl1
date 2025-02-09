@@ -35,8 +35,8 @@
             <label for="number">Contact Number:</label>
             <input type="text" name="number" id="number" required><br>
 
-            <label for="from">Reservation Date:</label>
-            From: <input type="date" name="from" id="from" required>
+            <label for="from">Reservation Date:</label><br>
+            From: <input type="date" name="from" id="from" required><br>
             To: <input type="date" name="to" id="to" required><br>
 
             <label for="room">Room Type:</label><br>
